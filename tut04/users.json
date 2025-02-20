@@ -1,0 +1,14 @@
+{
+    "User": {
+        "salt": "93dcbd0eb6ef269f9653b498055fba60",
+        "password": "418302291d6e105f1a4b060f2adf7c8112df45dd03b63fa2f6bd42dc73d91c52"
+    },
+    "Test": {
+        "salt": "c996f59f0cbb37c092dde00c90f1f1a9",
+        "password": "775d5a358a522dcea82141314fda1b6f6a77f6775b9654199a23cc87b5b15ca3"
+    },
+    "a  c": {
+        "salt": "90829c551a14b4739b2ea2581e46e88d",
+        "password": "d2d15144391d9bfb160432c4cac43118b70cbcebded9c8921114f65c4c83cf52"
+    }
+}
